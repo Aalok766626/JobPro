@@ -1,38 +1,119 @@
-.App {
+
+.app{
+  background:#e7e7e7;
+}
+#jobpro{
+  color: #ff0000;
+  font-size: 35px;
+}
+.body{
+  padding-top: 100px;
+  background-repeat: no-repeat;
+  background-image: url('./public/assets/images/back.jpg');
+  background-size: cover;
+}
+.row-head{
+  padding-top: 0px;
+  color: azure;
+  font-size: 20px;
+}
+#browse{
+  padding-top: 170px;
+  font-size: 60px;
+  color: blueviolet;
+  font-weight: 500;
+}
+#number{
+  color: floralwhite;
+}
+.rectangle{
+  height: 120px;
+  width: 800px;
+  background:floralwhite;
+  opacity: .8;
+  border-radius: 10px;
+}
+.rectangle1{
+  height: 200px;
+  background:floralwhite;
+  opacity: .6;
+  border-radius: 0px;
+}
+.rectangle2{
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  height: 120px;
+  background:#ffffff;
+  border: 2px solid red;
+
+}
+.rectangle3{
+  margin-top: 0px;
+  height: 140px;
+  background:#e7e7e7;
+  border-radius: 0px;
+}
+.rectangle4{
+  margin-left:100px;
+  margin-top: -300px;
+  margin-bottom: 20px;
+  width: 400px;
+  height: 600px;
+  background:#ffffff;
+  opacity: .6;
+  border-radius: 5px;
+}
+#keys{
+  padding-bottom: 100px;
+  padding-top: 10px;
+  font-size: 15px;
+}
+.search{
+  margin-left: 50px;
+  margin-top:40px;
+  font-size: medium;
+  width: 300px;
+  height: 40px;
+  background: #ffffff;
+  border-radius: 5px;
+  border: 1px solid #ff0000;
+  opacity: 1;
+}
+.location{
+  margin-left: 50px;
+  opacity: 1;
+}
+.searchbtn{
+  margin-left: 50px;
+  opacity: 1;
+}
+#update{
+  color:brown;
+  margin: 20px;
+}
+.foo{
+  margin-top:70px;
+}
+.trend{
+  background: magenta;
+  height: 120px;
+  color: floralwhite;
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.jobs{
+  background:lightseagreen;
+  height: 120px;
+  color: floralwhite;
+  text-align: center;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.jobs2{
+  background:lightskyblue;
+  height: 120px;
+  color: floralwhite;
+  text-align: center;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.margins{
+  margin-top: 50px;
 }
