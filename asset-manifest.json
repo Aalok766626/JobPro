@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/JobPro/static/css/main.cc559119.chunk.css",
+    "main.js": "/JobPro/static/js/main.a4b4675c.chunk.js",
+    "main.js.map": "/JobPro/static/js/main.a4b4675c.chunk.js.map",
+    "runtime-main.js": "/JobPro/static/js/runtime-main.0f258146.js",
+    "runtime-main.js.map": "/JobPro/static/js/runtime-main.0f258146.js.map",
+    "static/css/2.ff6b1218.chunk.css": "/JobPro/static/css/2.ff6b1218.chunk.css",
+    "static/js/2.bb84f081.chunk.js": "/JobPro/static/js/2.bb84f081.chunk.js",
+    "static/js/2.bb84f081.chunk.js.map": "/JobPro/static/js/2.bb84f081.chunk.js.map",
+    "index.html": "/JobPro/index.html",
+    "precache-manifest.9b8e216814ef96db7d2899d678171388.js": "/JobPro/precache-manifest.9b8e216814ef96db7d2899d678171388.js",
+    "service-worker.js": "/JobPro/service-worker.js",
+    "static/css/2.ff6b1218.chunk.css.map": "/JobPro/static/css/2.ff6b1218.chunk.css.map",
+    "static/css/main.cc559119.chunk.css.map": "/JobPro/static/css/main.cc559119.chunk.css.map",
+    "static/js/2.bb84f081.chunk.js.LICENSE.txt": "/JobPro/static/js/2.bb84f081.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/JobPro/static/media/back.bcba0613.jpg",
+    "static/media/font-awesome.css": "/JobPro/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f258146.js",
+    "static/css/2.ff6b1218.chunk.css",
+    "static/js/2.bb84f081.chunk.js",
+    "static/css/main.cc559119.chunk.css",
+    "static/js/main.a4b4675c.chunk.js"
+  ]
+}
